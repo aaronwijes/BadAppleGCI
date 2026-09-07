@@ -1,2 +1,5 @@
-./bad_apple_og
+bad_apple_og/*
 ./screenshots
+*.DS_Store
+.vscode
+.venv
