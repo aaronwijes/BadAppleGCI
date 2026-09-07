@@ -4,6 +4,7 @@ Usually, these are used to progress within the game, but they also double as a (
 I wanted to test what I could do with said screen, hence me rendering Bad Apple on the constellation board :)
 
 ## Showcase
+Watch the video here!<br><br>
 <video src="./videos/bad_apple_gci.mp4" alt="Bad Apple on GCI Constellations" width="300"/>
 
 ## How does this work?
