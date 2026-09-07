@@ -4,14 +4,15 @@ Usually, these are used to progress within the game, but they also double as a (
 I wanted to test what I could do with said screen, hence me rendering Bad Apple on the constellation board :)
 
 ## Showcase
-Watch the video here!<br><br>
-<video src="./videos/bad_apple_gci.mp4" alt="Bad Apple on GCI Constellations" width="300"/>
+Watch the video here!<br>
+
+https://github.com/user-attachments/assets/1536429c-31da-4a19-8f5a-733eba84216d
 
 ## How does this work?
 The frame renderer (`main.py`) calculates the differences between two given frames to add/delete objects from the constellation board.<br>
 Duplicate frames are not re-rendered.<br>
 
-<video src="./videos/frame_renderer.mp4" alt="Constellation Frame Renderer" width="300"/>
+https://github.com/user-attachments/assets/baea82ec-627c-4d37-8d14-ffc2ad33b2e8
 
 ## Requirements 
 - Python 3.x, preferably 3.14 since that's what I tested this code with
