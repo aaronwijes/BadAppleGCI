@@ -2,3 +2,5 @@ bad_apple_og*
 *.DS_Store
 .vscode
 .venv
+*.bak
+*.json

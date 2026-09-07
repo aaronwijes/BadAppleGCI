@@ -3,3 +3,4 @@ Pillow
 numpy
 pyautogui
 mss
+pynput
